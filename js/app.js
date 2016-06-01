@@ -6,7 +6,7 @@ $(document).ready(function() {
 
   var context = new AudioContext;
   var currNdx = 0;
-  var names = ["days", "donttrip", "friend", "listeni", "whatday", "wheel", "wth"];
+  //var names = ["days", "donttrip", "friend", "listeni", "whatday", "wheel", "wth"];
 
   var nextName = function() {
     //return names[currNdx++ % names.length];
